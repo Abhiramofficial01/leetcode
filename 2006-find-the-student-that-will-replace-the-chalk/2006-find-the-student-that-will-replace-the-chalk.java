@@ -6,7 +6,7 @@ class Solution {
         }
         k %= sum;
         for (int i = 0; i < chalk.length; i++) {
-            if (chalk[i] < k) return i;
+            if (chalk[i] > k) return i;
             k -= chalk[i];
         }
         return -1;
