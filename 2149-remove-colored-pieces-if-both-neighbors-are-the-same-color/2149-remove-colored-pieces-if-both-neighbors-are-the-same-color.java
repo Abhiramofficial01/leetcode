@@ -2,7 +2,7 @@ class Solution {
 
     public boolean winnerOfGame(String s) {
         int n = s.length();
-   //     if(n<=2) return false;
+       if(n<=2) return false;
         int A = 0;
         int B = 0;
         for(int i=1; i<n-1; i++){
