@@ -1,14 +1,16 @@
 class Solution {
     public int longestSubarray(int[] nums) {
-        int max = 0, longest = 0, cur = 0;
-        for (int num : nums) {
-            if  (num > max) {
-                max = num;
-                longest = cur=0;
+        int max = 0, ans = 0, cnt =0;
+        for (var n :nums) {
+            if ( n== max) {
+                ans = Math.max(ans, ++cnt);
+            } else if (n > max) {
+                max = n;
+                ans = cnt = 1;
+            } else {
+                cnt = 0;
             }
-            cur = num == max ? ++cur : 0;
-            longest = Math.max(longest, cur);
         }
-        return longest;
+        return ans;
     }
 }
