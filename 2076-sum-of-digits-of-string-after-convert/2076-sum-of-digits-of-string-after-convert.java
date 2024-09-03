@@ -1,28 +1,22 @@
 class Solution {
     public int getLucky(String s, int k) {
-          int sum = 0;
-        int n = s.length();
-        for (int i = 0; i < n; i++) {
-            int temp = s.charAt(i) - 96;
-            while (temp > 0) {
-                int rem = temp % 10;
-                sum += rem;
-                temp /= 10;
-            }
+          StringBuilder sol = new StringBuilder();
+        
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            int val =  (int)ch - 96;
+            sol.append(val);
         }
-        k--;
-        int num = sum;
-        while (k > 0) {
-            sum = 0;
-            int temp = num;
-            while (temp > 0) {
-                int rem = temp % 10;
-                sum += rem;
-                temp /= 10;
+        
+        String result = sol.toString();
+       for (int j = 0; j < k; j++) {
+            int sum = 0;
+            for (char ch : result.toCharArray()) {
+                sum += Character.getNumericValue(ch);
             }
-            num = sum;
-            k--;
+            result = Integer.toString(sum);
         }
-        return sum;
+
+        return Integer.parseInt(result);
     }
 }
