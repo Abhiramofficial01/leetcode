@@ -41,10 +41,12 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
 | ------- |
+| [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhiramofficial01/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhiramofficial01/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Number Theory
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhiramofficial01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
 <!---LeetCode Topics End-->
