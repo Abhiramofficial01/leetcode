@@ -11,6 +11,7 @@
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Abhiramofficial01/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2155-find-missing-observations](https://github.com/Abhiramofficial01/leetcode/tree/master/2155-find-missing-observations) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhiramofficial01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhiramofficial01/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhiramofficial01/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Game Theory
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 <!---LeetCode Topics End-->
