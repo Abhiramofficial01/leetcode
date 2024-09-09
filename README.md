@@ -22,6 +22,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhiramofficial01/leetcode/tree/master/0001-two-sum) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhiramofficial01/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -63,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhiramofficial01/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhiramofficial01/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhiramofficial01/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Game Theory
@@ -120,6 +123,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Matrix
 |  |
