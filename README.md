@@ -8,6 +8,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhiramofficial01/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0495-teemo-attacking](https://github.com/Abhiramofficial01/leetcode/tree/master/0495-teemo-attacking) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1020-longest-turbulent-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhiramofficial01/leetcode/tree/master/0258-add-digits) |
+| [0495-teemo-attacking](https://github.com/Abhiramofficial01/leetcode/tree/master/0495-teemo-attacking) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhiramofficial01/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
