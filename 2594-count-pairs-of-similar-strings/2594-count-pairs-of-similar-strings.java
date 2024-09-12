@@ -1,26 +1,31 @@
 class Solution {
     public int similarPairs(String[] words) {
-            for(int i=0;i<words.length;i++){
-            String str = words[i];
-            HashSet<Character> set = new HashSet<>();
-            for(int j=0;j<str.length();j++){
-                set.add(str.charAt(j));
-            }
-            char arr[] = new char[set.size()];
-            Iterator<Character> itr = set.iterator();  
-            String temp = " ";
-            while(itr.hasNext())  {  
-                temp=temp+Character.toString(itr.next());  
-            } 
-            words[i]=temp;
+            HashMap<String, Integer> hashMap = new HashMap<>();
+        int counter = 0;
+        for (String word : words) {
+            String sortedString = this.removeDuplicatesAndSort(word);
+            hashMap.merge(sortedString, 1, Integer::sum);
         }
-        int count=0;
-        for(int i=0;i<words.length-1;i++){
-            for(int j=i+1;j<words.length;j++){
-                if(words[i].equals(words[j]))
-                    count++;
+        for (Integer value : hashMap.values()) {
+            if (value > 1) {
+                counter = counter + value*(value-1)/2;
             }
         }
-        return count; 
+        return counter;
+    }
+
+    public static String removeDuplicatesAndSort(String str) {
+        char[] charArray = str.toCharArray();
+        HashSet<Character> uniqueChars = new HashSet<>();
+        for (char c : charArray) {
+            uniqueChars.add(c);
+        }
+        Character[] sortedCharArray = uniqueChars.toArray(new Character[0]);
+        char[] result = new char[sortedCharArray.length];
+        for (int i = 0; i < sortedCharArray.length; i++) {
+            result[i] = sortedCharArray[i];
+        }
+        Arrays.sort(result);
+        return new String(result);
    }
 }
