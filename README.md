@@ -11,6 +11,7 @@
 | [0495-teemo-attacking](https://github.com/Abhiramofficial01/leetcode/tree/master/0495-teemo-attacking) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0729-my-calendar-i](https://github.com/Abhiramofficial01/leetcode/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1020-longest-turbulent-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/Abhiramofficial01/leetcode/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -176,4 +178,16 @@
 |  |
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Abhiramofficial01/leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Abhiramofficial01/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Abhiramofficial01/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
