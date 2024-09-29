@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhiramofficial01/leetcode/tree/master/0001-two-sum) |
+| [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhiramofficial01/leetcode/tree/master/0002-add-two-numbers) |
+| [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Abhiramofficial01/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Abhiramofficial01/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -196,6 +198,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Abhiramofficial01/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Abhiramofficial01/leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Abhiramofficial01/leetcode/tree/master/0859-design-circular-deque) |
@@ -213,4 +216,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhiramofficial01/leetcode/tree/master/0257-binary-tree-paths) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
