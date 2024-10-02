@@ -27,6 +27,7 @@
 | [2155-find-missing-observations](https://github.com/Abhiramofficial01/leetcode/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abhiramofficial01/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhiramofficial01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -62,6 +63,7 @@
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhiramofficial01/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2155-find-missing-observations](https://github.com/Abhiramofficial01/leetcode/tree/master/2155-find-missing-observations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abhiramofficial01/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhiramofficial01/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abhiramofficial01/leetcode/tree/master/0258-add-digits) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhiramofficial01/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Greedy
 |  |
@@ -182,6 +185,7 @@
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhiramofficial01/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Matrix
 |  |
 | ------- |
@@ -232,4 +236,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
