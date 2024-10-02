@@ -16,6 +16,7 @@
 | [0859-design-circular-deque](https://github.com/Abhiramofficial01/leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1020-longest-turbulent-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -37,6 +38,7 @@
 | [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhiramofficial01/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
