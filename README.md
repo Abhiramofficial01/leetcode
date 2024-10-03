@@ -20,6 +20,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Abhiramofficial01/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhiramofficial01/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Abhiramofficial01/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -41,6 +42,7 @@
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/Abhiramofficial01/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhiramofficial01/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -90,6 +92,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Abhiramofficial01/leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1694-make-sum-divisible-by-p](https://github.com/Abhiramofficial01/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
