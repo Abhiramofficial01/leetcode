@@ -22,6 +22,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhiramofficial01/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhiramofficial01/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Abhiramofficial01/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -47,6 +48,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhiramofficial01/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhiramofficial01/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -193,6 +195,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhiramofficial01/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -254,5 +257,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
