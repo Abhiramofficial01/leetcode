@@ -20,6 +20,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhiramofficial01/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -66,6 +67,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/Abhiramofficial01/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Abhiramofficial01/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhiramofficial01/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhiramofficial01/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -242,6 +244,7 @@
 | [0731-my-calendar-ii](https://github.com/Abhiramofficial01/leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Abhiramofficial01/leetcode/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
 ## Segment Tree
 |  |
 | ------- |
@@ -260,10 +263,12 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
+| [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -275,4 +280,8 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
