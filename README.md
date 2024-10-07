@@ -105,6 +105,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhiramofficial01/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Abhiramofficial01/leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhiramofficial01/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhiramofficial01/leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhiramofficial01/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Number Theory
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhiramofficial01/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
