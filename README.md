@@ -35,6 +35,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abhiramofficial01/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhiramofficial01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -56,6 +57,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Abhiramofficial01/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhiramofficial01/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -105,6 +107,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhiramofficial01/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Abhiramofficial01/leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhiramofficial01/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
@@ -215,6 +218,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhiramofficial01/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Matrix
 |  |
@@ -276,6 +280,7 @@
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
 |  |
 | ------- |
