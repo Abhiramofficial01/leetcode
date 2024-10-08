@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhiramofficial01/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhiramofficial01/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -201,6 +202,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Abhiramofficial01/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhiramofficial01/leetcode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhiramofficial01/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Doubly-Linked List
 |  |
 | ------- |
