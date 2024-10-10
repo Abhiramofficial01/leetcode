@@ -16,6 +16,7 @@
 | [0731-my-calendar-ii](https://github.com/Abhiramofficial01/leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Abhiramofficial01/leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/Abhiramofficial01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1020-longest-turbulent-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhiramofficial01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Abhiramofficial01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -304,4 +306,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/Abhiramofficial01/leetcode/tree/master/1582-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Abhiramofficial01/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
