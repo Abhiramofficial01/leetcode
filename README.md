@@ -127,6 +127,7 @@
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhiramofficial01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/Abhiramofficial01/leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1923-sentence-similarity-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -244,6 +245,7 @@
 ## Counting
 |  |
 | ------- |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/Abhiramofficial01/leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Abhiramofficial01/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
