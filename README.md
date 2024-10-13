@@ -10,6 +10,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhiramofficial01/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhiramofficial01/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/Abhiramofficial01/leetcode/tree/master/0495-teemo-attacking) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0729-my-calendar-i](https://github.com/Abhiramofficial01/leetcode/tree/master/0729-my-calendar-i) |
@@ -49,6 +50,7 @@
 | [0001-two-sum](https://github.com/Abhiramofficial01/leetcode/tree/master/0001-two-sum) |
 | [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -149,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -188,6 +191,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1020-longest-turbulent-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
 ## Tree
@@ -223,6 +227,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -298,6 +303,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Two Pointers
