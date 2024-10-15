@@ -146,6 +146,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhiramofficial01/leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhiramofficial01/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/Abhiramofficial01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Number Theory
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhiramofficial01/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhiramofficial01/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Abhiramofficial01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/Abhiramofficial01/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Data Stream
 |  |
 | ------- |
