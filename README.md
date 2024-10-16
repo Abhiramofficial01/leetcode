@@ -54,6 +54,7 @@
 | [0432-all-oone-data-structure](https://github.com/Abhiramofficial01/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhiramofficial01/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -211,6 +212,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhiramofficial01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/0337-house-robber-iii) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhiramofficial01/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Abhiramofficial01/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -219,6 +221,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhiramofficial01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/0337-house-robber-iii) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhiramofficial01/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Abhiramofficial01/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
@@ -234,6 +237,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhiramofficial01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/0337-house-robber-iii) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhiramofficial01/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Sorting
