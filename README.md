@@ -136,6 +136,7 @@
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhiramofficial01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1304-longest-happy-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Abhiramofficial01/leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -164,6 +165,7 @@
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhiramofficial01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1304-longest-happy-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhiramofficial01/leetcode/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -318,6 +320,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1304-longest-happy-string) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhiramofficial01/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
