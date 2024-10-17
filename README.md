@@ -88,6 +88,7 @@
 | [0002-add-two-numbers](https://github.com/Abhiramofficial01/leetcode/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/Abhiramofficial01/leetcode/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhiramofficial01/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0670-maximum-swap](https://github.com/Abhiramofficial01/leetcode/tree/master/0670-maximum-swap) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Abhiramofficial01/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhiramofficial01/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -165,6 +166,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
+| [0670-maximum-swap](https://github.com/Abhiramofficial01/leetcode/tree/master/0670-maximum-swap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Abhiramofficial01/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhiramofficial01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1304-longest-happy-string) |
