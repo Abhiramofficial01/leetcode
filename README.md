@@ -8,6 +8,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhiramofficial01/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0321-create-maximum-number](https://github.com/Abhiramofficial01/leetcode/tree/master/0321-create-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhiramofficial01/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0495-teemo-attacking](https://github.com/Abhiramofficial01/leetcode/tree/master/0495-teemo-attacking) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -163,6 +164,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Abhiramofficial01/leetcode/tree/master/0321-create-maximum-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Abhiramofficial01/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
@@ -320,6 +322,7 @@
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Abhiramofficial01/leetcode/tree/master/0321-create-maximum-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhiramofficial01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Abhiramofficial01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Abhiramofficial01/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -337,6 +340,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Abhiramofficial01/leetcode/tree/master/0321-create-maximum-number) |
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhiramofficial01/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -349,5 +353,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/Abhiramofficial01/leetcode/tree/master/0321-create-maximum-number) |
 | [1002-maximum-width-ramp](https://github.com/Abhiramofficial01/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
