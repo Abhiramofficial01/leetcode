@@ -36,6 +36,7 @@
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/Abhiramofficial01/leetcode/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Abhiramofficial01/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/Abhiramofficial01/leetcode/tree/master/2155-find-missing-observations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abhiramofficial01/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Abhiramofficial01/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -187,6 +188,7 @@
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhiramofficial01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 ## Brainteaser
@@ -314,6 +316,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Abhiramofficial01/leetcode/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhiramofficial01/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -355,4 +358,8 @@
 | ------- |
 | [0321-create-maximum-number](https://github.com/Abhiramofficial01/leetcode/tree/master/0321-create-maximum-number) |
 | [1002-maximum-width-ramp](https://github.com/Abhiramofficial01/leetcode/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
