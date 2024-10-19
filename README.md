@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhiramofficial01/leetcode/tree/master/0002-add-two-numbers) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0258-add-digits](https://github.com/Abhiramofficial01/leetcode/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/Abhiramofficial01/leetcode/tree/master/0495-teemo-attacking) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhiramofficial01/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhiramofficial01/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/Abhiramofficial01/leetcode/tree/master/2155-find-missing-observations) |
@@ -146,6 +148,7 @@
 | [1304-longest-happy-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1304-longest-happy-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Abhiramofficial01/leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1923-sentence-similarity-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
