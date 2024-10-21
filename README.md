@@ -61,6 +61,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Abhiramofficial01/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Abhiramofficial01/leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -230,6 +231,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Abhiramofficial01/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Abhiramofficial01/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Abhiramofficial01/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
