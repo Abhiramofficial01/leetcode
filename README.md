@@ -45,6 +45,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Abhiramofficial01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhiramofficial01/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhiramofficial01/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -72,6 +73,7 @@
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Abhiramofficial01/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abhiramofficial01/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhiramofficial01/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhiramofficial01/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhiramofficial01/leetcode/tree/master/2594-count-pairs-of-similar-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhiramofficial01/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -224,6 +226,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1020-longest-turbulent-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [2001-jump-game-vii](https://github.com/Abhiramofficial01/leetcode/tree/master/2001-jump-game-vii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Abhiramofficial01/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
