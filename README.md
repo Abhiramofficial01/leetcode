@@ -40,6 +40,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abhiramofficial01/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/Abhiramofficial01/leetcode/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Abhiramofficial01/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhiramofficial01/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -257,6 +258,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Abhiramofficial01/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhiramofficial01/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Abhiramofficial01/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhiramofficial01/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Abhiramofficial01/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Queue
 |  |
@@ -356,6 +359,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Abhiramofficial01/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1304-longest-happy-string) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhiramofficial01/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/Abhiramofficial01/leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2479-meeting-rooms-iii](https://github.com/Abhiramofficial01/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Abhiramofficial01/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -382,4 +386,12 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Graph
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhiramofficial01/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Abhiramofficial01/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
