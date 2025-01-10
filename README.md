@@ -19,6 +19,7 @@
 | [0859-design-circular-deque](https://github.com/Abhiramofficial01/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Abhiramofficial01/leetcode/tree/master/0860-design-circular-queue) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Abhiramofficial01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1020-longest-turbulent-subarray](https://github.com/Abhiramofficial01/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -63,6 +64,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Abhiramofficial01/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0906-walking-robot-simulation](https://github.com/Abhiramofficial01/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhiramofficial01/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Abhiramofficial01/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -152,6 +154,7 @@
 | [0567-permutation-in-string](https://github.com/Abhiramofficial01/leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Abhiramofficial01/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/Abhiramofficial01/leetcode/tree/master/0649-dota2-senate) |
+| [0952-word-subsets](https://github.com/Abhiramofficial01/leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhiramofficial01/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Abhiramofficial01/leetcode/tree/master/1304-longest-happy-string) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/Abhiramofficial01/leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
